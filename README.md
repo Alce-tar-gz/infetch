@@ -6,9 +6,6 @@
 <a href='#'><img src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg"></img><a/>
 <a href='#'><img src=https://img.shields.io/badge/Maintained%3F-yes-green.svg></img><a/>
 <br/>
-<a href="https://discord.gg/W4mQqNnfSq">
-<img src="https://discordapp.com/api/guilds/913584348937207839/widget.png?style=shield"/></a>
-</div>
 
 ## Installation
 Download sysfetch
