@@ -16,7 +16,8 @@ git clone https://github.com/Alce-tar-gz/infetch; cd ${_##*/}
 
 Install to $PATH (optional)
 ```bash
-mv sysfetch infetch cp infetch /usr/bin/local/
+mv sysfetch infetch
+cp infetch /usr/bin/local/
 ```
 
 ---
