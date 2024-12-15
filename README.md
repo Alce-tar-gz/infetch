@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Sysfetch</h1>
-<p>A super tiny system information fetch script written in BASH</p>
+<h1>Infetch</h1>
+<p>A super tiny system information fetch script written in BASH using nerd fonts</p>
 <img src="ss.webp"></img>
 <a href='#'><img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white"></img><a/>
 <a href='#'><img src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg"></img><a/>
@@ -14,12 +14,12 @@
 Download sysfetch
 
 ```bash
-git clone https://github.com/wick3dr0se/sysfetch; cd ${_##*/}
+git clone https://github.com/Alce-tar-gz/infetch; cd ${_##*/}
 ```
 
 Install to $PATH (optional)
 ```bash
-cp sysfetch /usr/bin/local/
+mv sysfetch infetch cp infetch /usr/bin/local/
 ```
 
 ---
@@ -35,14 +35,14 @@ Or with BASH
 bash sysfetch
 ```
 
-Otherwise execute sysfetch from anywhere if it's in $PATH
+Otherwise execute infetch from anywhere if it's in $PATH
 ```bash
-sysfetch
+infetch
 ```
 
-Sysfetch can be executed in an infinite loop, with a delay, live updating the output every N seconds
+Infetch can be executed in an infinite loop, with a delay, live updating the output every N seconds
 ```bash
-sysfetch <N>
+infetch <N>
 ```
 
 Press Ctrl+C or close terminal to kill the script
